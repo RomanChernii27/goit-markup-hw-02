@@ -1,6 +1,9 @@
 body {
-  font-family: "Roboto", sans-serif;
-  list-style-type: none;
+  font-family: "Roboto", sans-serif;}
+
+  ul {list-style-type: none;}
+a{
+  text-decoration: none;
 }
 .header {
 }
@@ -44,9 +47,21 @@ body {
 .Solutions {
 }
 .Solutions-title {
+  color: var(--WHITE, #FFF);
+text-align: center;
+font-size: 56px;
+font-weight: 700;
+line-height: 1.07;
+letter-spacing: 0.02em;
 }
 .Solutions-btn {
+  color: var(--WHITE, #FFF);
+font-size: 16px;
+font-weight: 500;
+line-height: 1.5;
+letter-spacing: 0.04em;
 }
+
 /* advantages */
 .advantages {
 }
