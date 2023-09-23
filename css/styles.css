@@ -67,12 +67,10 @@ a {
 
 /*  Solutions */
 
-.Solutions-header-button {
-  width: 1440px;
-  height: 600px;
+.solutions-header-button {
   background: #2e2f42;
 }
-.Solutions-title-main {
+.solutions-title-main {
   color: #fff;
   text-align: center;
   font-size: 56px;
@@ -80,7 +78,7 @@ a {
   line-height: 1.07;
   letter-spacing: 0.02em;
 }
-.Solutions-btn-button {
+.solutions-btn-button {
   background-color: #4d5ae5;
   color: #fff;
   font-size: 16px;
@@ -89,8 +87,8 @@ a {
   letter-spacing: 0.04em;
   cursor: pointer;
 }
-.Solutions-btn:hover,
-.Solutions-btn:focus {
+.solutions-btn:hover,
+.solutions-btn:focus {
   color: #fff;
   background-color: #404bbf;
 }
@@ -166,7 +164,7 @@ a {
   color: #2e2f42;
   font-size: 36px;
   font-weight: 700;
-  line-height: 1.2;
+  line-height: 1.5;
   letter-spacing: 0.02em;
   text-transform: capitalize;
 }
@@ -196,8 +194,6 @@ a {
 
 /* footer */
 .footer {
-  width: 1440px;
-  height: 312px;
   background-color: #2e2f42;
 }
 
