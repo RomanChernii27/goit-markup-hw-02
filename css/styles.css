@@ -71,8 +71,8 @@ a {
   background: #2e2f42;
 }
 
-.solutions-header-button :hover,
-.solutions-header-button :focus {
+.solutions-header-button:hover,
+.solutions-header-button:focus {
   background-color: #404bbf;
 }
 .solutions-title-main {
